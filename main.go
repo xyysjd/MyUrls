@@ -41,7 +41,7 @@ type redisPoolConf struct {
 const letterBytes = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 // shortUrlLen is the length of the generated short URL.
-const shortUrlLen = 7
+const shortUrlLen = 3
 
 // defaultPort is the default port number.
 const defaultPort int = 8002
